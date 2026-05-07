@@ -1,0 +1,27 @@
+{
+  "name": "workflow_module1_selfstudy",
+  "version": "1.0.0",
+  "description": "This is the self study task for module 1 in the workflow course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priscilla-cassandra/workflow_module1_selfstudy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priscilla-cassandra/workflow_module1_selfstudy/issues"
+  },
+  "homepage": "https://github.com/priscilla-cassandra/workflow_module1_selfstudy#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.3.0",
+    "globals": "^17.6.0",
+    "prettier": "^3.8.3"
+  }
+}
